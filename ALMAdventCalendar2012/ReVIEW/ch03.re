@@ -27,7 +27,7 @@ Team Foundation Server 2012もWindows Server 2008やWindows Server 2008 R2であ
 では、Windows Server 2012にTeam Foundation Server 2012をシングルサーバー構成でセットアップする方法をご紹介します。 
 
 
-== 1. 必要なソフトウェア 
+== 必要なソフトウェア 
 Windows Server 2012にTeam Foundation Server 2012をセットアップするには以下のソフトウェアが必要となります。 
 
  * Windows Server 2012（Standard Edition, Enterprise Edition問わず） 
@@ -39,7 +39,7 @@ Windows Server 2012にTeam Foundation Server 2012をセットアップするに�
 この中で、SharePoint Foundation 2013は執筆日現在（2012/12/03）では、ダウンロード場所の発見が少々難しいので こちらからダウンロードしてください。「@<href>{http://www.microsoft.com/ja-jp/download/details.aspx?id=35488,Microsoft Download Center : SharePoint Foundation 2013のダウンロード}」 
 
 
-== 2. Windows Server 2012のセットアップ 
+== Windows Server 2012のセットアップ 
 OSのインストール後に必要な作業だけピックアップします。 
 
 SQL Server Reporting Servicesを利用する場合には、おおむね以下のような追加機能が必要となります。 
@@ -53,7 +53,7 @@ SQL Server Reporting Servicesを利用する場合には、おおむね以下の
 各製品のインストール時に自動構成してくれるものもありますが、これらについては事前に機能を追加しておいた上で Windows Updateによりすべてを最新化しておくことをお勧めします。 
 
 
-== 3. SQL Serverのセットアップ 
+== SQL Serverのセットアップ 
 TFS 2012を利用するためには、SQL Serverでは最低限以下の機能がセットアップされている必要があります。 
 
  * データベースエンジンサービス 
@@ -80,7 +80,7 @@ TFS 2012を利用するためには、SQL Serverでは最低限以下の機能�
 レポーティングサービスの構成では「Reporting Services ネイティブモードでインストールと構成」を選択しておきます。
 //image[4][Reporting Services の構成]
 
-== 4. SharePoint Foundation 2013のセットアップ 
+== SharePoint Foundation 2013のセットアップ 
 TFS 2012をインストールする前にSharePoint Foundation 2013を @<em>{事前インストール} しておきます。 
 
 TFS 2012をWindows Server 2012上でシングルサーバー構成にするためには一番のポイントとなる部分です。 
@@ -127,7 +127,7 @@ SharePoint 製品構成ウィザードでは以下の設定を行っていきま
 以上で、SharePoint Foundation 2013のインストールと設定は終了です。 
 
 
-== 5. Team Foundation Server 2012のセットアップ 
+== Team Foundation Server 2012のセットアップ 
 最後にようやくTFS 2012のセットアップです。 
 
 インストールはすぐに終了して、「Team Foundation Server 構成センター」が立ち上がります。 
