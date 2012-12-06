@@ -1,5 +1,5 @@
 = 2日目 JavaScriptの開発、テストを効率化したい @<href>{https://twitter.com/atttakai,@atttakai}
-「@<href>{http://atnd.org/events/34118/ALM,Advent Calender}」２日目への参加記事になります。
+「@<href>{http://atnd.org/events/34118/,ALM Advent Calender}」２日目への参加記事になります。
 
 ソフトウェアを開発する際にテスト開発、実施、管理をもっと効率化したいとずっと考えています。
 幸いにも自分たちの開発チームもTFSを導入することができたことで、Test Managerなどを利用して開発チームのテスト実施や管理が効率よく行えるようになってきています。

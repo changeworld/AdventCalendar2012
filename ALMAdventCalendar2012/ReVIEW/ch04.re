@@ -1,5 +1,5 @@
 = 4日目 TFSからAnt実行時に設定される変数の確認方法 @<href>{https://twitter.com/__Black,@__Black}
-「@<href>{http://atnd.org/events/34118/ALM,Advent Calender}」４日目への参加記事になります。 
+「@<href>{http://atnd.org/events/34118/,ALM Advent Calender}」４日目への参加記事になります。 
 
 「Microsoft Visual Studio Team Foundation Server 2012 Build Extensions」を使ってAntのBuild.xmlを記述するときに、ビルドに関する情報を使いたい時があります。
 

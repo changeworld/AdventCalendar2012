@@ -1,5 +1,5 @@
 = 3日目 Windows Server 2012にTeam Foundation Server 2012をシングルサーバー構成で構築する @<href>{https://twitter.com/libaty,@libaty}
-「@<href>{http://atnd.org/events/34118/ALM,Advent Calender}」３日目への参加記事になります。 
+「@<href>{http://atnd.org/events/34118/,ALM Advent Calender}」３日目への参加記事になります。 
 
 
 ALMを実現するためには何かしらのツールが必要なことは言うまでもありません。 
