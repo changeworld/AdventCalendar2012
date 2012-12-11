@@ -2,7 +2,7 @@
 このエントリは「@<href>{http://atnd.org/events/34118,ALM Advent Calendar}」1日目への参加記事です。
 
 今日から12/24までALMでAdvent Calendarをみんなで書いていきます。初日は「そもそもALMってなに？」といあたりを書いてみようと思います。
-
+@<br>{}@<br>{}
 「ALM」とは「Application Life cycle Management」の略で、「アプリケーションの一生をマネジメント(考えること)」だと考えています。僕が外から見て感じることは、(特にここ最近の)Microsoft自身が自社が掲げるALMの考え方に則って製品群をリリースしていることです。もちろん開発ツールであるVisual StudioやTeam Foundation Serverにもこの考え方をベースにした製品となっており、これから先のソフトウェア開発の考え方自体の参考になると考えています。
 
 == 背景
