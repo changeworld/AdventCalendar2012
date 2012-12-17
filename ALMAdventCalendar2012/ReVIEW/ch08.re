@@ -1,5 +1,5 @@
 = 8日目 障壁のあるチームと障壁のないチーム @<href>{https://twitter.com/changeworlds,@changeworlds}
-このエントリは「@<href>{http://atnd.org/events/34118,ALM Advent Calendar 2012 #TFSUG : ATND}」8日目への参加記事になります。
+このエントリは「@<href>{http://atnd.org/events/34118,ALM Advent Calendar 2012 #TFSUG : ATND}」8日目への参加記事になります。@<br>{}昨日は @<href>{https://twitter.com/yasuohosotani,@yasuohosotani} さんの @<href>{http://yasuo.hatenablog.com/entry/2012/12/07/190222,TFS事件簿 - Yasuo&#39;s Notebook} でした。
 
 @changeworldsこと、ちぇんわです。今回の記事は技術系の話ではございませんので、予めご容赦ください。
 
@@ -30,3 +30,5 @@ ALM とは Application Life cycle Management の略です。こちらには「�
 
 == まとめ
 あなたは“@<kw>{あなたの好み}”と“@<kw>{チームの成功}”ではどちらがより@<kw>{大事}でしょうか？
+
+明日は@<href>{https://twitter.com/matsukawar,@matsukawar} さんです。よろしくおねがいします。
